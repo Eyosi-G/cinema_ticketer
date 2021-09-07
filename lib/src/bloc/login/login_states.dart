@@ -1,0 +1,1 @@
+enum LoginStates { INIT, STARTED, SUCCESS, FAILURE }
